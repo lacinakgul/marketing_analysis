@@ -104,6 +104,30 @@ The electronics category has the highest number of returns, while the pet catego
 Electronics category has the biggest revenue with Samsung and Sonys while pet category has the lowest revenue with Purina.
 
 
+---
+
+# Key Findings
+
+The analysis produced several notable insights:
+
+- It may be claimed that whereas electronics have the highest revenue and returns, pets have the lowest. The best-selling items could have the highest number of returns due to the volume of products sold.
+
+- Loyal customers have the lowest average review score, while VIP customers have the highest, indicating a possible chance to look into customer complaints and enhance their overall experience. The company should look into the primary causes of poor ratings among loyal consumers and implement focused retention programs, like tailored discounts, enhanced post-purchase assistance, and incentives for giving feedback.
+
+- Toys category receives the highest average discounts but does not generate proportionally high revenue, suggesting that discounts alone may not be sufficient to drive sales performance by itself. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
