@@ -60,7 +60,7 @@ Business Insights
 
 # Data Cleaning
 
-The dataset was analysed to gain a deeper understanding of consumer behavior prior to creating the Power BI dashboard.
+In order to simulate a realistic data cleaning procedure, data quality concerns were purposefully inserted into the raw datasets.
 
 - Cleaning duplicate data
 - Removing null and blank values
@@ -69,9 +69,39 @@ The dataset was analysed to gain a deeper understanding of consumer behavior pri
 - Converting columns to appropriate data types
 - Deleting columns
 
+---
+
+# Exploratory Data Analysis
+
+The dataset was analysed to gain a deeper understanding of consumer behavior prior to creating the Power BI dashboard.
+
+The Analysis included:
+
+- How does revenue vary across different traffic sources?
+- Which customer segments generate the highest revenue?
+- How does the average review score vary by customer segment?
+- Which categories have the highest number of returned orders?
+- Which brands and categories generate the highest revenue?
+- How does the average discount vary across product categories?
 
 
+--- 
 
+# Power BI Dashboard
+
+Power BI was used to visualise the main findings from the SQL analysis.
+
+![Average of review score by customer segment](images/marketing_3.png)
+
+Compared to other customer segments, VIP customers are more likely to leave reviews and scores.
+
+![Count of returned items by category](images/marketing_4.png)
+
+The electronics category has the highest number of returns, while the pet category has the lowest number.
+
+![Revenue by brand and category](images/marketing_7.png)
+
+Electronics category has the biggest revenue with Samsung and Sonys while pet category has the lowest revenue with Purina.
 
 
 
